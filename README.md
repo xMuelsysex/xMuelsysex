@@ -40,6 +40,3 @@
 **后端与数据** FastAPI · PostgreSQL · SQLAlchemy / alembic · EF Core · SQLite
 **AI 工程** Pi / Claude Code 扩展开发 · LLM 端口抽象与确定性假 provider · 事件溯源与确定性重放
 
-## 说明
-
-以上仓库的测试与质量门命令均在各仓库 README 中，可按其中命令本地复现。开源贡献栏的两个 PR 均已被上游合并，可通过链接核验。
